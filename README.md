@@ -1,2 +1,2 @@
-# cdec-git-
+# cdec-git
 this is new git 
